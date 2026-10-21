@@ -21,7 +21,7 @@ A search scoped to repos owned by the account (`user:HeziLiu`) returned no open 
 
 ## Open pull requests
 
-Search for open PRs authored by the account returned 519 total results. The most recently updated are:
+Search for open PRs authored by the account returned 520 total results (the index was still counting up during the audit). The most recently updated are:
 
 - `mcpmark-eval-liuhezi/lib-digest` #1 — Library intake brief: requests vs httpx
 - `mcpmark-eval-liuhezi/retreat-briefing` #1 — Add Acadia retreat briefing
@@ -30,3 +30,6 @@ Search for open PRs authored by the account returned 519 total results. The most
 - `mcpmark-eval-liuhezi/ci-onboarding-demo` #1 — Add project overview doc
 - `mcpmark-eval-liuhezi/aurora-migration` #5 — Add kickoff notes
 - `mcpmark-eval-liuhezi/release-qa-rehearsal` #5 — docs: add release checklist
+- `mcpmark-eval-liuhezi/mcp-onboarding-brief` #1 — Add onboarding brief for github-mcp-server
+- `mcpmark-eval-liuhezi/mcp-server-eval` #1 — Add MCP server evaluation findings
+- `mcpmark-eval-liuhezi/mcp-github-eval` #3 — Add GitHub MCP server evaluation findings

@@ -1,0 +1,16 @@
+name: Smoke
+
+on:
+  workflow_dispatch:
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Report repository and date
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Date: $(date)"
